@@ -23,40 +23,40 @@
 
 ### 💫 About Me
 
-
-const emmanuel = {
-    role: "Full Stack Developer",
-    location: "Bangladesh 🇧🇩",
-    currentFocus: ["System Design", "DevOps", "Cloud Architecture"],
-    techStack: {
-        frontend: ["React", "TailwindCSS", "Bootstrap"],
-        backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
-        languages: ["JavaScript", "Python", "C++", "Java"],
-        tools: ["Docker", "Git", "Firebase", "Google Cloud"]
-    },
-    interests: ["AI/ML", "NLP", "Cloud Computing", "Open Source"],
-    lifePhilosophy: "Code. Debug. Learn. Repeat.",
-    currentlyLearning: "System Design & DevOps Practices",
-    funFact: "I can debug for hours with music 🎧"
-};
+🚀 I'm **Emmanuel Hembrom Emu**, a passionate **Full Stack Developer** from **Bangladesh 🇧🇩** dedicated to crafting clean, efficient, and scalable web applications.
 
 **🎯 What I Do:**
-- 🚀 Build scalable full-stack web applications with modern frameworks
+- 🚀 Build scalable full-stack web applications with **MERN Stack**
 - 🧠 Explore machine learning and data science solutions
 - 🌐 Design and implement RESTful APIs and database architectures
 - 🤝 Contribute to open-source projects and collaborate with dev communities
 - 📚 Continuously learning and adapting to new technologies
 
-**📫 Let's Connect:** emmanuelhembromemu@gmail.com
+**💼 Current Focus:**
+- 🔭 System Design & Scalable Architectures
+- 🐳 DevOps Practices (Docker, CI/CD)
+- ☁️ Cloud Computing & Architecture
+
+**🛠️ Tech Stack:**
+- **Frontend:** React, TailwindCSS, Bootstrap
+- **Backend:** Node.js, Express.js, MongoDB, MySQL
+- **Languages:** JavaScript, Python, C++, Java, C
+- **Tools:** Docker, Git, Firebase, Google Cloud
+
+**🌱 Currently Learning:** System Design & DevOps Practices  
+**💬 Ask me about:** React, Node.js, MongoDB, Express.js, and Machine Learning  
+**⚡ Fun fact:** I can debug for hours with music 🎧  
+**🧠 Life Philosophy:** *"Code. Debug. Learn. Repeat."*
+
+**📫 Reach me at:** emmanuelhembromemu@gmail.com
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://facebook.com/Emmanuel Hembrom Emu"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/cordenkrypton"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/Emu Hembrom"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/EmmanuelEmu"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/emu.hembrom/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/cordenkrypton/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/emu-hembrom-5325a31b1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
