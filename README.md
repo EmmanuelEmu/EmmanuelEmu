@@ -168,18 +168,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EmmanuelEmu&theme=radical&no-frame=false&no-bg=false&margin-w=8&row=2&column=4"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EmmanuelEmu&theme=radical&layout=compact" />
-</p>
-
----
-
 ### 💼 What I'm Working On
 
 - 🔭 Building full-stack applications with **MERN Stack**
@@ -201,34 +189,3 @@
 - 🌟 Motto: *"Building tomorrow's solutions, one line of code at a time"*
 
 ---
-
-### 📝 Latest Blog Posts & Activity
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default&font=default" />
-</p>
-
----
-
-### 👁️ Visitor Count & Profile Analytics
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=EmmanuelEmu&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelEmu&repo=your-best-repo&theme=radical" />
-</p>
-
----
-
-<div align="center">
-  
-### 💖 Support My Work
-
-If you like my projects, consider giving them a ⭐️!
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/emm
