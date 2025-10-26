@@ -23,7 +23,7 @@
 
 ### 💫 About Me
 
-```javascript
+
 const emmanuel = {
     role: "Full Stack Developer",
     location: "Bangladesh 🇧🇩",
@@ -39,7 +39,6 @@ const emmanuel = {
     currentlyLearning: "System Design & DevOps Practices",
     funFact: "I can debug for hours with music 🎧"
 };
-```
 
 **🎯 What I Do:**
 - 🚀 Build scalable full-stack web applications with modern frameworks
